@@ -7,7 +7,7 @@ const server = net.createServer();
 
 server.listen(port, () => console.log(`Server up on ${port}`) );
 
-let allowedEvents = ['create','read','update','delete','error','attack'];
+let allowedEvents = ['create','read','update','delete','error','attack', 'save'];
 let socketPool = {};
 
 server.on('connection', (socket) => {
