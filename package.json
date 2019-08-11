@@ -1,0 +1,24 @@
+{
+  "name": "lab-class-17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandyn-vay-401-advanced-javascript/lab-class-17.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandyn-vay-401-advanced-javascript/lab-class-17/issues"
+  },
+  "homepage": "https://github.com/brandyn-vay-401-advanced-javascript/lab-class-17#readme",
+  "dependencies": {
+    "util": "0.12.1"
+  }
+}
