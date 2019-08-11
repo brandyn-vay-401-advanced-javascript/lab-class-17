@@ -5,8 +5,8 @@
 ### Author: Brandyn Vay
 ​
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/brandyn-vay-401-advanced-javascript/lab-class-17)
+* [travis](https://travis-ci.com/brandyn-vay-401-advanced-javascript/lab-class-17)
 ​
 #### Documentation
 * [jsdoc](http://xyz.com) (Server assignments)
